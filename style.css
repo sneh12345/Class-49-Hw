@@ -1,0 +1,5 @@
+hr.clear {
+    clear: both;
+    border: 1px solid transparent;
+    height: 0px;
+}
